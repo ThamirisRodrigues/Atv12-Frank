@@ -1,0 +1,16 @@
+body{
+    color: #4F4F4F;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(#B0C4DE, #87CEFA, #ADD8E6);
+    flex-direction: column;
+}
+
+button {
+   background-color:#EE82EE;
+   border: 0px;
+   border-radius: 5px;
+}
